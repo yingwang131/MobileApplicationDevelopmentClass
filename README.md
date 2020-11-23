@@ -1,4 +1,4 @@
-# Mobile ApplicationDevelopment Class Summary and Code
+# Mobile Application Development Class Summary
 ## Purpose: 
 ### 1: Design and build a variety of mobile applications with a hands-on and project-based approach. 
 ### 2: Get to know the various requirements and design decisions tied to mobile application development and how they can deal with the limited resources available on mobile devices.
