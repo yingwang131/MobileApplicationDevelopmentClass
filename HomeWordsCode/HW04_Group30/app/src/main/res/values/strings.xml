@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">HW04_Group#30</string>
+    <string name="add_movie">Add Movie</string>
+    <string name="edit">Edit</string>
+    <string name="delete_movie">Delete Movie</string>
+    <string name="show_list">Show List by Year</string>
+    <string name="show_list_rating">Show List by Rating</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="genre">Genre</string>
+    <string name="year">Year</string>
+    <string name="imdb">IMDB</string>
+    <string name="button_movie">Add Movie</string>
+    <string name="error_empty_name">Empty Name</string>
+    <string name="error_empty_genre">Empty Genre</string>
+    <string name="error_empty_description">Empty description</string>
+    <string name="error_empty_year">Empty Year</string>
+    <string name="error_empty_imdb">Empty IMDB</string>
+    <string name="button_save">Save</string>
+</resources>

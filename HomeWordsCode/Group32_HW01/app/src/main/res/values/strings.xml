@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HM1BMIClaculation</string>
+    <string name="Weight">Weight</string>
+    <string name="Height">Height</string>
+    <string name="inches">inches</string>
+    <string name="CalculateButton">Calculate Button</string>
+    <string name="tv_result1">Your BMI:</string>
+    <string name="tv_result2" />
+    <string name="inch">Inches</string>
+</resources>

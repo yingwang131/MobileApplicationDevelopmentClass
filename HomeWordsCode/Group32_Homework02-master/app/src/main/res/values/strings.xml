@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Group32_Homework02</string>
+    <string name="button_checkout">Checkout</string>
+    <string name="button_addTopping">Add Topping</string>
+    <string name="button_clearPizza">Clear Pizza</string>
+    <string name="cb_delivery">Delivery</string>
+</resources>

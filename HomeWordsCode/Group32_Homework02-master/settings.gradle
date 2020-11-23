@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Group32_Homework02'
